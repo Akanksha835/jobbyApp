@@ -1,0 +1,26 @@
+.notfound-container {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+.notfound-img-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.img {
+  width: 150px;
+  height: 150px;
+}
+.heading {
+  color: white;
+  font-family: 'roboto';
+  font-size: 25px;
+  font-weight: bold;
+}
+.para {
+  color: white;
+  font-family: 'roboto';
+  font-size: 20px;
+}
